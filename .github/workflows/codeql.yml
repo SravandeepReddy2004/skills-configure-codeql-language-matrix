@@ -13,7 +13,6 @@ jobs:
       matrix:
         language: [ 'go', 'java-kotlin', 'javascript-typescript', 'python' ]
           
-
     permissions:
       security-events: write
       actions: read
